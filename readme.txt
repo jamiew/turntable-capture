@@ -1,3 +1,35 @@
+
+
+ --- ScratchML ---
+Scratch Markup Language 
+see also: Graffiti Markup Language
+http://graffitimarkuplanguage.com
+
+
+this repo is Jdubs Augmented Reality record/hand tracking experiments
+http://jamiedubs.com
+
+my actual app = /apps/jdubs/ARToolkit
+
+
+OF version 0061
+built on a Mac
+http://openframeworks.cc
+
+
+FAT Lab - Free Art & Technology
+http://fffff.at
+
+
+
+
+
+
+------------- OF Docs --------------
+
+
+
+
 1) installing Xcode:
 --------------------------------------------------------------------------------
  
