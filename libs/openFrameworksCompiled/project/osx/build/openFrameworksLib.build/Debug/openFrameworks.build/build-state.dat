@@ -1,7 +1,7 @@
 TopenFrameworks
 v7
 r0
-t309135774.816999
+t309215234.113604
 cCheck dependencies
 cCompileC build/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o /Users/jamie/Desktop/ScratchML/of_preRelease_v0061_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 cCompileC build/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppRunner.o /Users/jamie/Desktop/ScratchML/of_preRelease_v0061_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppRunner.cpp normal i386 c++ com.apple.compilers.gcc.4_2
@@ -3444,7 +3444,7 @@ i<string>
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies309135774#309135774#0(0"0(0#1#0"4300911832#0"0#
+lSLF07#2@18"Check dependencies309215230#309215234#0(0"0(0#1#0"7742373267996762112#0"0#
 
 CCompileC build/openFrameworksLib.build/Debug/openFrameworks.build/Objects-normal/i386/ofAppGlutWindow.o "/Users/jamie/Desktop/ScratchML OF AugReality/of_preRelease_v0061_osxSL_FAT/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/app/ofAppGlutWindow.cpp" normal i386 c++ com.apple.compilers.gcc.4_2
 r0
